@@ -23,7 +23,7 @@ Donation is also welcomed, please leave a message to let me know that's donated 
 如果希望通过捐赠以支持本项目，请添加留言以注明用于捐赠Chaldea应用。
 
 ### Buy me a coffee
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G152BDO)
+[![ko-fi](img/kofi2.webp)](https://ko-fi.com/G2G152BDO)
 
 ### Bilibili Charge/B站充电
 [![Bilibili Charge](img/bilicharge.png)](https://space.bilibili.com/3785253)
@@ -42,22 +42,6 @@ If you have any question or want the donation back, please contact me.
 - Email: [narumi@chaldea.cc](mailto:narumi@chaldea.cc)
 
 ## Sponsors
-- Received Donations
-  
-    Sponsor| Amount
-    ----- | ------
-    *友   | ¥ 66 CNY
-    d*n   | ¥ 10 CNY
-    *莫   | ¥ 20 CNY
+The project financial report can be found at online sheet:
 
-- [Bilibili Charge List](https://space.bilibili.com/3785253)
-
-所获得的捐款将用于苹果/谷歌商店开发者账号、AWS服务器的购买。
-
-Received donations will be used for purchase of Apple/Google developer account and AWS server.
-
-- Apple developer account: ¥688 CNY ($100 USD) per year
-- Google developer account: ¥162 CNY ($25 USD)
-- AWS server: about ¥1000 CNY ($150 USD) per year
-
-*\*2021/07/07 updated*
+[https://shimo.im/sheets/Q3yHkVQJvqHqHtP3/IoZsK](https://shimo.im/sheets/Q3yHkVQJvqHqHtP3/IoZsK)
